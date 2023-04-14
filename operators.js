@@ -17,10 +17,10 @@ num2="4"
 console.log(num1===num2)//strick check
 console.log(num1!=num2)
 
-//Assignment operators
-1.+=
-2.-=
-3.*=
-4./=
-5.%=
-6.**=
+// Assignment operators
+// 1.+=
+// 2.-=
+// 3.*=
+// 4./=
+// 5.%=
+// 6.**
