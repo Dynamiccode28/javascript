@@ -3,7 +3,7 @@ function average(num1,num2){
     return (num1+num2)/2;
 }
 
-const sum = (num1,num2)=>{
+const sum = (num1,num2)=>{//Array function
     return num1+num2;
 }
 
