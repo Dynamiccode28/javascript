@@ -18,6 +18,7 @@ console.log(fruit)
 let candidate="Adarsh\'s \nportfolio"
 console.log(candidate)
 
+/*NOTE: strings are immutable. WWwhen any method performs operation over string it will return new string*/
 
 //string methods to manipulate strings
 //1.LENGTH
@@ -42,6 +43,7 @@ console.log("   Adrsh    ".trimEnd())
 
 //7. concat
 console.log("Ayush".concat(" is brother of Adarsh"))
+
 
 //8.split
 console.log("Addars".split(""))
