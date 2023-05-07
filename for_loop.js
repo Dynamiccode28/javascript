@@ -11,6 +11,7 @@ let obj={
   Adarsh:50,shivam:48,
   yash:50,kartik:68,shiv:50
 }
+//accessing ket:val pairs using for in loop
 for(let a in obj){
   console.log(a+" : "+obj[a])
 }
